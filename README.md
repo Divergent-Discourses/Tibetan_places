@@ -1,4 +1,5 @@
 # Tibetan_places
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14289491.svg)](https://doi.org/10.5281/zenodo.14289491)
 This repo contains three files with lists of foreign toponyms, foreign anthroponyms, and Tibetan names as found in Tibetan language newspapers in the 1950s and 1960s.
 
 ## Sources
