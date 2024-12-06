@@ -1,6 +1,4 @@
 # Tibetan_places
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14289491.svg)](https://doi.org/10.5281/zenodo.14289491)
-
 This repo contains three files with lists of foreign toponyms, foreign anthroponyms, and Tibetan names as found in Tibetan language newspapers in the 1950s and 1960s.
 
 ## Sources
@@ -16,6 +14,8 @@ The file contains non-Tibetan toponyms alongside their original and Chinese form
 The list contains Tibetan anthroponyms with their corresponding Chinese and English forms. Different from the other two lists, the names here are general forms and not the names of historical figures. The list was built with the consent of the compilers from a list published on [High Peaks Pure Earth](https://highpeakspureearth.com/tibetan-names-in-simplified-chinese-1/).
 
 # Publication
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14289491.svg)](https://doi.org/10.5281/zenodo.14289491)
+
 For a detailed description and analysis of the material, see Erhard, Franz Xaver, and Xiaoying (2025). "Call them by their names — foreign names and places in Tibetan newspapers of the 1950s and 1960s." Revue d’Etudes Tibétaines.73 (forthcoming)  
 
 # Acknowledgements
